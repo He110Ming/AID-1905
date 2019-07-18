@@ -1,0 +1,5 @@
+# .gitignore
+
+.idea
+*.jpg
+.handl2.txt
